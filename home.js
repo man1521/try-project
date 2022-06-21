@@ -37,6 +37,7 @@ if(i===7){
    break;
 }; 
 };
+
 //6
 let x="stop";
 for(let i=30;i>=5;i--)
