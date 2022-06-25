@@ -22,6 +22,7 @@ console.log(calc(2, 10, '/'));
 console.log(calc(10, 2, '*'));
 console.log(calc(7, 2, '%'));
 
+//
 // nested loops
 // --1--
 
