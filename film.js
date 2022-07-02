@@ -53,7 +53,7 @@ detectUserPersonalLevel();
 showMyDB();
 
 
-//   //object 1
+// Distructuring   //object 1
 
   const movie = {
     title: 'Gladiator',
@@ -193,7 +193,7 @@ console.log(name);
 console.log(country);
 console.log(job);
 
-//////array 1
+//////Distructuring array 1
 
 let students = ["Աննա", "Վիկա", "Մարիա", "Դավիթ", "Անի", "Արսեն"];
 let [first, second, third, ...rest] = students;
