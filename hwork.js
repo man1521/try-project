@@ -104,9 +104,9 @@ console.log(christmasTree(7));
 
 //տարբերակ 3
 let txt = "";
-for(i=1;i<=7;i++){
+for(let i=1;i<=7;i++){
   txt = "";
-  for(j=i;j<7;j++){
+  for(let j=i;j<7;j++){
     txt += " ";
   }
   for(k=0;k<(i*2)-1;k++){
